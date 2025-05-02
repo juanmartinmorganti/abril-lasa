@@ -10,3 +10,9 @@
     - en abril se liquido las vacaciones con dos importes, crear el concepto "vacaciones" sin formula, para poder ingresar el importe manualmente
     - al nuevo concepto de vacaciones incorporarlo al LSD - ARCA
     - en Onvio el concepto ya estaba creado 0136 - vacaciones(importe) 
+
+**02/05/2025**
+- Se cargo abril
+- Registrar en LSD vacaciones abril
+- LSD y DDJJ 931 presentado.
+
